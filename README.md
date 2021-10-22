@@ -4,7 +4,7 @@
 
 Install a WebShell on hardened and deployed WebScripts (using Apache and mod_wsgi).
 
-[![WebShell on WebScripts - Youtube]()]()
+[![WebShell on WebScripts - Youtube](https://img.youtube.com/vi/pvaAwOkZ5FU/0.jpg)](http://www.youtube.com/watch?v=pvaAwOkZ5FU)
 
 *WebShell on WebScripts - Youtube*
 
